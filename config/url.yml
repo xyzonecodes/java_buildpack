@@ -1,0 +1,5 @@
+---
+base: http://10.10.30.103
+default:
+  jdk: /resource/jdk-7u75-linux-x64.gz
+  tomcat: /resource/apache-tomcat-7.0.59.tar.gz
